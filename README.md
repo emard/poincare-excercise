@@ -8,7 +8,6 @@ space axis as real values)
 used instead of Minkowski-metric,
 and verified with the same example from
 [Lorentz transformation - Wikipedia](https://en.wikipedia.org/wiki/Lorentz_transformation)
-
 that both metrics provide the same transformations.
 
 In the excercise, an arbitrary observer speed can
